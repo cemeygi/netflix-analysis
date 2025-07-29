@@ -29,4 +29,4 @@ This project explores Netflix content using Python and Tableau. The main goals w
 ## 🔗 Links
 
 - [GitHub Repo](https://github.com/cemeygi/achievement6-netflix-analysis)
-- [Tableau Storyboard]([https://public.tableau.com/app/profile/YOUR_LINK_HERE](https://public.tableau.com/app/profile/cem.eygi/viz/NetflixContentAnalysis-July2025/NetflixContentAnalysis))
+- [Tableau Storyboard](https://public.tableau.com/app/profile/YOUR_LINK_HERE](https://public.tableau.com/app/profile/cem.eygi/viz/NetflixContentAnalysis-July2025/NetflixContentAnalysis))
